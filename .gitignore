@@ -1,2 +1,2 @@
-node_mododules
-.env
+**/node_mododules
+./.env
